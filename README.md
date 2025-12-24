@@ -1,5 +1,5 @@
-awesome-vietnamese
-==================
+just-awesome-vietnamese
+=======================
 
 Original repository: https://github.com/virusvn/awesome-vietnamese/
 
