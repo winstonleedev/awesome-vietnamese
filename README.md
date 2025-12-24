@@ -51,7 +51,6 @@ Nếu bạn dị ứng với Facebook vui lòng bỏ qua section này ^^
 Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việt) đóng góp trên 50%, hoặc là người sở hữu, có ít nhất tổng cộng 100 (stars + forks), có tính chất global. Danh sách này để cho chúng ta thấy những giá trị cơ bản mà cộng đồng người Việt khắp nơi trên thế giới đóng góp.
 
 ## Project nổi bật, được update thường xuyên
-## Project nổi bật, được update thường xuyên
 
 - ⭐️ [Capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) ![Stars](https://img.shields.io/github/stars/aquynh/capstone.svg?style=flat-square)
 - ⭐️ [koel](https://github.com/phanan/koel) is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side ![Stars](https://img.shields.io/github/stars/phanan/koel.svg?style=flat-square)
@@ -67,7 +66,6 @@ Thứ tụ A-Z theo tên project
 - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) MQTT client library for ESP8266 ![Stars](https://img.shields.io/github/stars/tuanpmt/esp_mqtt.svg?style=flat-square)
 - [emojicon](https://github.com/rockerhieu/emojicon) Emojicon is a library to implement emojis like Whatsapp, iMessage for Android. ![Stars](https://img.shields.io/github/stars/rockerhieu/emojicon.svg?style=flat-square)
 - [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall) ![Stars](https://img.shields.io/github/stars/kombai/freewall.svg?style=flat-square)
-- [Hệ thống hỏi đáp Phanbook](http://phanbook.com/en/)
 - [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue) Admin dashboard for enterprise Laravel applications built by VueJS and Element UI  ![Stars](https://img.shields.io/github/stars/tuandm/laravue.svg?style=flat-square)
 - [Manta](https://github.com/hql287/Manta) Flexible invoicing desktop app with beautiful & customizable templates. Now open source ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
 - [Mongoose plugin to enable deep population of nested models](https://github.com/buunguyen/mongoose-deep-populate) Mongoose plugin to enable deep population of nested models ⛺ ![Stars](https://img.shields.io/github/stars/buunguyen/mongoose-deep-populate.svg?style=flat-square)
@@ -113,15 +111,15 @@ Thứ tụ A-Z theo tên project
 
 ## Thư viện / Libraries
 
-- [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
-- [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
-- [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
+- [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit ![Stars](https://img.shields.io/github/stars/undertheseanlp/underthesea.svg?style=flat-square)
+- [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit ![Stars](https://img.shields.io/github/stars/phuonglh/vn.vitk.svg?style=flat-square)
+- [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit ![Stars](https://img.shields.io/github/stars/vncorenlp/VnCoreNLP.svg?style=flat-square)
 
 ## Dữ liệu / Data
 
 - [Vietnamese treebank](https://vlsp.hpda.vn/demo/?page=resources&lang=en) - 10,000 sentences for the constituency parsing task
 - [BKTreeBank](https://arxiv.org/pdf/1710.05519.pdf) - a Vietnamese Dependency Treebank
-- [UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese-VTB) - Vietnamese Universal Dependency Treebank
+- [UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese-VTB) - Vietnamese Universal Dependency Treebank ![Stars](https://img.shields.io/github/stars/UniversalDependencies/UD_Vietnamese-VTB.svg?style=flat-square)
 - [VIVOS](https://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech by AILab
 - [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus) - 1.75 million sentences in news
-- [Vietnamese Provinces Database](https://github.com/thanglequoc/vietnamese-provinces-database) A complete SQL (and also non-SQL) databases of Vietnamese administrative units, includes all 34 Vietnamese provinces and associated districts, wards sub-divisions. Updated to 2025 specs.
+- [Vietnamese Provinces Database](https://github.com/thanglequoc/vietnamese-provinces-database) A complete SQL (and also non-SQL) databases of Vietnamese administrative units, includes all 34 Vietnamese provinces and associated districts, wards sub-divisions. Updated to 2025 specs. ![Stars](https://img.shields.io/github/stars/thanglequoc/vietnamese-provinces-database.svg?style=flat-square)
