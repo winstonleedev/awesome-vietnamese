@@ -51,9 +51,10 @@ Nếu bạn dị ứng với Facebook vui lòng bỏ qua section này ^^
 Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việt) đóng góp trên 50%, hoặc là người sở hữu, có ít nhất tổng cộng 100 (stars + forks), có tính chất global. Danh sách này để cho chúng ta thấy những giá trị cơ bản mà cộng đồng người Việt khắp nơi trên thế giới đóng góp.
 
 ## Project nổi bật, được update thường xuyên
+## Project nổi bật, được update thường xuyên
 
 - ⭐️ [Capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) ![Stars](https://img.shields.io/github/stars/aquynh/capstone.svg?style=flat-square)
-- ⭐️ [koel](https://github.com/phanan/koel) is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side
+- ⭐️ [koel](https://github.com/phanan/koel) is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side ![Stars](https://img.shields.io/github/stars/phanan/koel.svg?style=flat-square)
 
 ## Các project khác
 Thứ tụ A-Z theo tên project
@@ -61,29 +62,27 @@ Thứ tụ A-Z theo tên project
 - [agar.io-clone](https://github.com/huytd/agar.io-clone) ![Stars](https://img.shields.io/github/stars/huytd/agar.io-clone.svg?style=flat-square)
 - [camaro](https://github.com/tuananh/camaro)  camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around ![Stars](https://img.shields.io/github/stars/tuananh/camaro.svg?style=flat-square)
 - [Cloud Retro](https://github.com/giongto35/cloud-game) Play retro games on your own cloud ![Stars](https://img.shields.io/github/stars/giongto35/cloud-game.svg?style=flat-square)
-- [Crankshaft](https://github.com/opencardev/crankshaft) A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
+- [Crankshaft](https://github.com/opencardev/crankshaft) A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit. ![Stars](https://img.shields.io/github/stars/opencardev/crankshaft.svg?style=flat-square)
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) A nicer iOS UI component for picking date and time. ![Stars](https://img.shields.io/github/stars/itsmeichigo/DateTimePicker.svg?style=flat-square)
 - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) MQTT client library for ESP8266 ![Stars](https://img.shields.io/github/stars/tuanpmt/esp_mqtt.svg?style=flat-square)
 - [emojicon](https://github.com/rockerhieu/emojicon) Emojicon is a library to implement emojis like Whatsapp, iMessage for Android. ![Stars](https://img.shields.io/github/stars/rockerhieu/emojicon.svg?style=flat-square)
-- [FormValidation](https://github.com/formvalidation/formvalidation) best @jquery plugin to validate form fields. ![Stars](https://img.shields.io/github/stars/formvalidation/formvalidation.svg?style=flat-square)
-- [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall)
+- [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall) ![Stars](https://img.shields.io/github/stars/kombai/freewall.svg?style=flat-square)
 - [Hệ thống hỏi đáp Phanbook](http://phanbook.com/en/)
 - [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue) Admin dashboard for enterprise Laravel applications built by VueJS and Element UI  ![Stars](https://img.shields.io/github/stars/tuandm/laravue.svg?style=flat-square)
-- [Manta](https://github.com/hql287/Manta) Flexible invoicing desktop app with beautiful & customizable templates. Now open source![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
+- [Manta](https://github.com/hql287/Manta) Flexible invoicing desktop app with beautiful & customizable templates. Now open source ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
 - [Mongoose plugin to enable deep population of nested models](https://github.com/buunguyen/mongoose-deep-populate) Mongoose plugin to enable deep population of nested models ⛺ ![Stars](https://img.shields.io/github/stars/buunguyen/mongoose-deep-populate.svg?style=flat-square)
-- [Octotree - Browser extension for Github & Gitlab](https://github.com/buunguyen/octotree)
-- [pacapt](https://github.com/icy/pacapt) An ArchLinux's pacman-like wrapper for many package managers
-- [Pencil - GUI prototyping tool](https://github.com/evolus/pencil)
-- [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
-- [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
-- [spicetify](https://github.com/khanhas/spicetify-cli) Customize Spotify client. Supports Windows, Linux, MacOS ![Stars](https://img.shields.io/github/stars/nguyenquangminh0711/ruby_jard.svg?style=flat-square)
+- [Octotree - Browser extension for Github & Gitlab](https://github.com/buunguyen/octotree) ![Stars](https://img.shields.io/github/stars/buunguyen/octotree.svg?style=flat-square)
+- [pacapt](https://github.com/icy/pacapt) An ArchLinux's pacman-like wrapper for many package managers ![Stars](https://img.shields.io/github/stars/icy/pacapt.svg?style=flat-square)
+- [Pencil - GUI prototyping tool](https://github.com/evolus/pencil) ![Stars](https://img.shields.io/github/stars/evolus/pencil.svg?style=flat-square)
+- [Responsive Test](https://github.com/nghuuphuoc/responsivetest) ![Stars](https://img.shields.io/github/stars/nghuuphuoc/responsivetest.svg?style=flat-square)
+- [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby ![Stars](https://img.shields.io/github/stars/nguyenquangminh0711/ruby_jard.svg?style=flat-square)
+- [spicetify](https://github.com/khanhas/spicetify-cli) Customize Spotify client. Supports Windows, Linux, MacOS ![Stars](https://img.shields.io/github/stars/khanhas/spicetify-cli.svg?style=flat-square)
 - [Scyna](https://github.com/scyna) Event-Sourcing | Microservice IDP
-- [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer)
-- [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
-- [Human-First AI: h1st-ai/h1st](https://github.com/h1st-ai/h1st)
-- [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
-- [Clendar - Minimal Calendar](https://github.com/vinhnx/Clendar) Open Source iOS App. Written in SwiftUI. Available on App Store. MIT License.
-
+- [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer) ![Stars](https://img.shields.io/github/stars/phuoc-ng/react-pdf-viewer.svg?style=flat-square)
+- [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher) ![Stars](https://img.shields.io/github/stars/dannguyen/watson-word-watcher.svg?style=flat-square)
+- [Human-First AI: h1st-ai/h1st](https://github.com/h1st-ai/h1st) ![Stars](https://img.shields.io/github/stars/h1st-ai/h1st.svg?style=flat-square)
+- [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go) ![Stars](https://img.shields.io/github/stars/hoanhan101/ultimate-go.svg?style=flat-square)
+- [Clendar - Minimal Calendar](https://github.com/vinhnx/Clendar) Open Source iOS App. Written in SwiftUI. Available on App Store. MIT License. ![Stars](https://img.shields.io/github/stars/vinhnx/Clendar.svg?style=flat-square)
 # Nguồn đóng
 - [Proxyman](https://github.com/ProxymanApp/Proxyman)  Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ![Stars](https://img.shields.io/github/stars/ProxymanApp/Proxyman.svg?style=flat-square)
 - [TablePlus](https://github.com/TablePlus/TablePlus)  TablePlus is a native app which helps you easily edit database data and structure ![Stars](https://img.shields.io/github/stars/TablePlus/TablePlus.svg?style=flat-square)
